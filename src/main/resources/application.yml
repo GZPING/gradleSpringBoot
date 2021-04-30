@@ -1,0 +1,23 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+
+
+# spring.main.lazy-initialization=true  延迟初始化
+
+
+user:
+  name: GD
+  age: 10
+  person:
+    number: 100
+    name: 职员
+  girlFriend:
+    - 丽莎
+    - 玛丽
+    - 云岚
+
+person:
+  name: aaa
+  number: 001
